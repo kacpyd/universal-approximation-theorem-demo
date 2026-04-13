@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 14 00:52:17 2026
-
-@author: kacpe
-"""
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
