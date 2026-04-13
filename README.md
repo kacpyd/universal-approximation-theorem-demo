@@ -4,9 +4,7 @@ This repository contains step-by-step PyTorch experiments showing how a neural n
 
 We start from a harder target:
 
-\[
-y = \sin(70x)e^x / 7
-\]
+y = sin(70x) · exp(x) / 7
 
 and then improve the model step by step.
 
