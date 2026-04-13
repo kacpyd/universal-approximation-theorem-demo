@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 14 00:34:51 2026
-
-@author: kacpe
-"""
 import torch
 import matplotlib.pyplot as plt
 
